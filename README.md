@@ -44,7 +44,7 @@ The goal of this project is to analyze bird activity patterns across different e
 ```text
 ├── app.py                      # Streamlit dashboard script
 ├── cleaned_bird_data.csv       # Final cleaned dataset used for analysis & dashboard
-├── bird_analysis.ipynb         # (Optional) Jupyter notebook with EDA & code exploration
+├── bird_analysis.ipynb         # Google colab notebook with EDA & code exploration
 ├── requirements.txt            # List of Python dependencies
 ├── README.md                   # Project documentation
 
